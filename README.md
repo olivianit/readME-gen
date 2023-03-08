@@ -4,8 +4,8 @@
 
  ## title: 'ReadME Generator',
  ## description: 'This project helps users quickly create their own readme file',
-## installation: 'npm ',
- ## usage: 'this porject is used to create readme files',
+## installation: 'inquirer',
+ ## usage: 'this project has varvious questions listed for user to quickly answer, and then a readME file is generated from user entered information.',
   ## license: [ 'MIT' ],
   ## contribution: 'solo project',
   ## github: 'olivianit',
